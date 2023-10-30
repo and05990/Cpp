@@ -1,0 +1,4 @@
+andrea,quagliotti,3040
+skerdi,velo,4999
+rossini,davide,2000
+tafa,kevin,300
